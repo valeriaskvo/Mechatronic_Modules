@@ -35,7 +35,7 @@
 "system_radius" = ( "shafts_diameter" + 12 + "bh_thikness" / 2 ) / 2
 "encoder_distance"= "system_radius" + 4
 "tape_position"= "encoder_distance" - 2 + 3.9 + 1.7 / 2
-"ft_sensor_d1" = 9.78
+"ft_sensor_d1" = 9.8
 "ft_sensor_d2"= 24.9
 "ft_sensor_h"= 7
 "carbon_pipe_d"= 14
