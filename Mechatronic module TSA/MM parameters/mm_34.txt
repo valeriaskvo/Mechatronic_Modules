@@ -1,0 +1,23 @@
+"motor_D"= 34'Motor diameter
+
+"motor_H"= 16'Motor heigh
+
+"motor_d1"= 30.4056'Seating diameter of screws on the fixed part of the motor
+
+"motor_s1"= 2'Screws diameter on the fixed part of motor
+
+"motor_d2"= 0'Seating diameter of screws on the moving part of the motor (if this parameter is not determine, write 0)
+
+"motor_a2"= 12'Seating parameter in rectangle of screws on the moving part of the motor
+
+"motor_b2"= 22'Seating parameter in rectangle of screws on the moving part of the motor
+
+"motor_s2"= 2.5'Screws diameter on the moving part of motor
+
+"motor_cmd"= 12'Central magnet mount diameter
+
+"motor_cmh"= 0.4'Central magnet mount heigh (if not write 0)
+
+"motor_Dc"= 5'Central hole diameter of motor
+
+"motor_whR"= 10'Distance from center of motor to wires
