@@ -1,0 +1,8 @@
+﻿"bearing_d1"= 6'Bearing inner diameter
+"bearing_d2"= 17'Bearing external diameter
+"bearing h"= 6'Bearing heigh
+"pin_d"= 2'Pin diameter
+"pin_h"= 12'Pin heigh
+"print_offset"= 0.2'Offset for printing holes
+"module_diameter"= 41
+"motor_diameter"= 32
