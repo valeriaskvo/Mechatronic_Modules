@@ -10,7 +10,7 @@
 "lower_bearing_d1"= 10
 "lower_bearing_d2"= 5
 "lower_bearing_h"= 15
-"print_offset"= 0.2
+"print_offset"= 0.5
 "bh_screws_d"= 2
 "bh_screws_h"= 20
 "bh_screws_hh_d"= 3.4
