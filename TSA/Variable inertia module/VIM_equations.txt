@@ -3,7 +3,7 @@
 "radial_bearing_d2"= 16
 "radial_bearing_h"= 5
 "shaft_d"= 6
-"shaft_h" = 50
+"shaft_h" = 60
 "central_hole_d"= 20
 "sitting_screws_d"= 34
 "screw_d"= 2
