@@ -35,8 +35,11 @@
 "system_radius" = ( "shafts_diameter" + 12 + "bh_thikness" / 2 ) / 2
 "encoder_distance"= "system_radius" + 4
 "tape_position"= "encoder_distance" - 2 + 3.9 + 1.7 / 2
-"D1@Эскиз9"="bh_screws_d"-0.2
 "radial_bearing_d1"= 7.7
 "radial_bearing_d2"= 16
 "radial_bearing_h"= 5
 "bearing_distance"= "encoder_distance" + 2
+"platform_l"= 70
+"platform_thikness"= 5
+"sh_a"= 20
+"sh_b" = 10
