@@ -1,0 +1,9 @@
+﻿"big_bearing_d1"= 19.9
+"big_bearing_d2"= 42
+"big_bearing_h"= 11.9
+"print_offset"= 0.5
+"small_bearing_d1"= 2.9
+"small_bearing_d2"= 10
+"small_bearing_h"= 4
+"tube_d"= 16
+"small_bearing_distance"= 2
