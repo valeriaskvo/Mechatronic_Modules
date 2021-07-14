@@ -1,6 +1,6 @@
 ﻿"print_offset"= 0.5
-"screw_m5_d"= 5
-"screw_m5_hh_d"= 9.5
+"screw_m5_d"= 4
+"screw_m5_hh_d"= 7
 "nut_m5_d"= 7.9
 "nut_m5_h"= 3.9
 "tube_d"= 16

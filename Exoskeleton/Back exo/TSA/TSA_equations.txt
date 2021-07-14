@@ -10,9 +10,9 @@
 "motor_cmh"= 1'Central magnet mount heigh (if not write 0)
 "motor_Dc"= 5'Central hole diameter of motor
 "motor_whR"= 17'Distance from center of motor to wires
-"bearing_d1"= 6'Bearing inner diameter
-"bearing_d2"= 17'Bearing external diameter
-"bearing h"= 6'Bearing heigh
+"bearing_d1"= 8'Bearing inner diameter
+"bearing_d2"= 16'Bearing external diameter
+"bearing h"= 5'Bearing heigh
 "pin_d"= 2'Pin diameter
 "pin_h"= 13'Pin heigh
 "magnet_d1"= 5'Magnet inner diameter

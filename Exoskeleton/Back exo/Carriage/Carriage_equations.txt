@@ -1,0 +1,11 @@
+﻿"Ball_bearing_D"= 12.7
+"Ball_bearing_h1"= 9
+"Ball_bearing_d1"= 5.9
+"Ball_bearing_d2"= 18
+"Ball_bearing_h2"= 6.6
+"Brake_tube_d1"= 2
+"Brake_tube_d2"= 5
+"Brake_tube_h"= 20
+"print_offset"= 0.5
+"angle_mount"=25
+"inner_distance"= 20
